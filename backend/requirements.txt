@@ -1,0 +1,7 @@
+flask
+flask-cors
+python-dotenv
+PyMuPDF          # fast pdf reading
+Pillow
+pytesseract      # agar images/screenshots se text nikalna ho
+python-magic-bin # windows pe better file checking ke liye
